@@ -3,11 +3,6 @@
 <h3 align="center">A  fullstack developer from cannes</h3>
 
 - I’m currently learning Java and php and preparing the degree to be a developer with O'clock school.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mickaelzimmermann&label=Profile%20views&color=0e75b6&style=flat" alt="mickaelzimmermann" /> </p>
-
-<!--
-**MickaelZimmermann/MickaelZimmermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mickaelzimmermann" alt="mickaelzimmermann" /></a> </p>
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning **with O'clock School**
