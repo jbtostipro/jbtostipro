@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm jean-bastien </h1>
 <h3 align="center">A  fullstack developer from cannes</h3>
 
-- I’m currently learning Java and php and preparing the degree to be a developer with O'clock school.
+- I’m currently learning Java and php and preparing the degree to be a developer.
 
 
 
