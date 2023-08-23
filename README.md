@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋,I'm jean-bastien</h1>
+<h1 align="center">Hi👋,I'm jean-bastien </h1>
 <h3 align="center">A  fullstack developer from cannes</h3>
 
 
